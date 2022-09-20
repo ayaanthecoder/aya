@@ -1,0 +1,27 @@
+.song{
+    color:black;
+    font-size: 20px;
+}
+
+.songs{
+    font-size: 15px;
+}
+
+.heading{
+    font-size: 15px;
+    width: 100%;
+    margin: 0;
+
+}
+
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    position: center;
+    border: 5px solid blue;
+  border-radius:20px;
+  box-shadow: 5px 5px 5px  red;
+}
